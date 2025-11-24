@@ -1,117 +1,63 @@
-# 👋 Bonjour, je suis Ines Amirat
+<!-- Banner / Header -->
+<div align="center">
 
-🎓 Étudiante en **Master 2 Génie Logiciel – Université de Montpellier**  
-🏅 Lauréate de la **Bourse France Excellence (IFA – Ambassade de France, 2025)**  
-💻 Développeuse **Java / Spring Boot / Angular**, récemment spécialisée en  
-🧠 **IA / ML / NLP**, avec un fort intérêt pour les applications médicales et la santé numérique.
+  ### 👋 Bonjour, moi c’est **Ines Amirat**
 
----
+  🎓 Master 2 **Génie Logiciel** – Université de Montpellier  
+  🏅 Lauréate de la **Bourse France Excellence (IFA – Ambassade de France, 2025)**  
+  💻 Entre **backend Java/Spring Boot**, **frontend Angular** et  
+  🧠 **IA / Machine Learning / NLP**, avec un fort intérêt pour la **santé numérique**.
 
-#  À propos de moi
+  ---
 
-Je combine aujourd’hui deux forces :
+  ### ⚙️ Tech Stack principal
 
-###  1. Une base solide en ingénierie logicielle  
-- Java, Spring Boot, APIs REST  
-- Angular, TypeScript, Tailwind  
-- Architectures propres et modélisation  
-- PostgreSQL, MySQL  
-- Docker, Git, CI/CD (bases)
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-###  2. Une montée en compétence rapide en IA / Data Science  
-- Python, scikit-learn, pandas, numpy  
-- NLP : nettoyage, TF-IDF, vectorisation  
-- ML : Logistic Regression, RandomForest, SVM  
-- Analyse biomédicale : PCA, corrélations, jeux de données santé  
-- API d’inférence ML avec FastAPI  
-- Projets IA structurés (architecture modulaire)
+  <br/>
 
-Je construis des projets concrets mêlant logiciel + IA, avec un intérêt particulier pour la **santé**, la **donnée** et la **recherche scientifique**.
+</div>
 
 ---
 
-#  Projets IA & Data Science
+## 🧩 Qui je suis en 3 phrases
 
-##  Diagnostic AI – Symptômes → Maladie (NLP médical)
-Pipeline NLP complet :  
-✔ preprocessing  
-✔ TF-IDF  
-✔ scikit-learn  
-✔ classification maladies  
-✔ API FastAPI  
-✔ architecture modulaire (nlp / ml / services / api)
+- 🔧 Formée d’abord comme **ingénieure logiciel** : Java, Spring Boot, APIs REST, Angular, bases de données.  
+- 🧪 Je me spécialise maintenant en **IA / ML / NLP**, avec un focus sur les **données médicales** et les projets à impact réel.  
+- 🔍 J’aime les **architectures propres**, la rigueur scientifique et les projets bien structurés (backend + IA).
 
 ---
 
-## SmartNews – Classification d’Articles de Presse  
-Projet NLP modulaire :  
-✔ Nettoyage texte  
-✔ TF-IDF  
-✔ Logistic Regression / SVM / RandomForest  
-✔ Architecture professionnelle (`api`, `core`, `ml`, `nlp`, `services`)  
-✔ API FastAPI `/predict`  
-✔ Notebook d’analyse
+## 📚 Ce sur quoi je travaille en ce moment
+
+- 🧠 Projets d’**IA / ML** autour de la classification, des pipelines de données et de la santé.  
+- 🏗️ Structurer des projets Python façon “vrai produit” : `core / nlp / ml / services / api`.  
+- 📊 Améliorer mes compétences en **Data Science** (exploration, corrélations, PCA, métriques).  
+
+*(Les repos publics arriveront progressivement ici – stay tuned 🌙)*
 
 ---
 
-##  BioLab – Analyse biomédicale (rechute à 12 mois)  
-Projet Data Science avancé :  
-✔ dataset biomédical synthétique  
-✔ Analyse exploratoire (EDA)  
-✔ PCA, corrélations  
-✔ Modèles ML (LR, RF, SVM)  
-✔ Rapport scientifique possible
+## 🧰 Compétences (vue rapide)
+
+- **Langages** : Java, Python, TypeScript, SQL  
+- **Back-end** : Spring Boot, REST, FastAPI  
+- **Front-end** : Angular, Tailwind CSS (bases)  
+- **IA / ML / NLP** : scikit-learn, pandas, numpy, TF-IDF, modèles classiques (LR, SVM, RandomForest)  
+- **Data** : PostgreSQL, MySQL  
+- **Outils** : Git, Docker (bases), VS Code, Linux  
 
 ---
 
-#  Projets Logiciels (Java / Spring Boot / Angular)
+## 🌎 Où me trouver ?
 
-## MoneyDash – Dashboard bancaire  
-- Spring Boot + Angular 19  
-- UI moderne + architecture propre  
-- Gestion comptes, transactions, sécurité  
-- Projet structuré backend + frontend
+- 📧 `ines.amirate20@gmail.com`  
+- 💼 [LinkedIn](https://www.linkedin.com/in/inesamirat)  
 
-##  TechShop – E‑Commerce  
-- Backend Java + Frontend Angular  
-- Gestion produits, catégories, filtres  
-- API REST complète
-
-##  Voting System – Plateforme de vote  
-- Java + Spring  
-- Authentification, logique métier  
-- Architecture claire (controllers, services, repositories)
-
----
-
-#  Compétences techniques
-
-###  IA / ML / NLP
-- Python, scikit-learn, pandas, numpy  
-- TF-IDF, pipelines ML  
-- SVM, RandomForest, Logistic Regression  
-- FastAPI, joblib  
-- Notions : PyTorch, embeddings, Transformers
-
-###  Développement Logiciel
-- Java, Spring Boot  
-- Angular, TypeScript, Tailwind  
-- Docker, Postman  
-- APIs REST, architecture logicielle
-
-###  Bases de données
-- PostgreSQL, MySQL, SQLite
-
----
-
-#  En cours d’apprentissage
-- IA médicale (imagerie + biomarqueurs)  
-- Analyse multimodale  
-- Data Science avancée  
-- Déploiement d’API ML  
-
----
-
-#  Contact  
-📫 **ines.amirate20@gmail.com**  
-🔗 LinkedIn : https://www.linkedin.com/in/inesamirat  
+> _“Quiet work, loud results.”_ ✨
