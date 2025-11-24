@@ -4,7 +4,6 @@
   ### 👋 Bonjour, moi c’est **Ines Amirat**
 
   🎓 Master 2 **Génie Logiciel** – Université de Montpellier  
-  🏅 Lauréate de la **Bourse France Excellence (IFA – Ambassade de France, 2025)**  
   💻 Entre **backend Java/Spring Boot**, **frontend Angular** et  
   🧠 **IA / Machine Learning / NLP**, avec un fort intérêt pour la **santé numérique**.
 
