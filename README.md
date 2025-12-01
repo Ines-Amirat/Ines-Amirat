@@ -121,12 +121,13 @@ I enjoy designing systems that are:
 
 ---
 
-# 🏆 Most Used Languages (Activity-Based)
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ines-amirat&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ines-amirat&theme=tokyonight" />
-</div>
+# 📊 Most Used Languages
 
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ines-amirat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
 ---
 
 # 🌐 Connect With Me
