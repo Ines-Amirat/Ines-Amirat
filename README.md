@@ -113,14 +113,20 @@ I enjoy designing systems that are:
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ines-amirat&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ines-amirat&theme=tokyonight&hide_border=true" />
 
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ines-amirat&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
+
+---
 
 ---
 
 # 📊 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ines-amirat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ines-Amirat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 ---
