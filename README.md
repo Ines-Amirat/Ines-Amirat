@@ -4,12 +4,8 @@
 <!-- Typing Intro -->
 <h3 align="center">
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&fontSize=28&pause=900&color=7F3DFF&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+AI+%2F+ML+%2F+NLP+Enthusiast;Java+%7C+Spring+Boot+%7C+FastAPI+Developer;Passionate+about+Medical+AI+%26+Data+Pipelines;Clean+Architecture+Focused+%7C+Research+Mindset" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&fontSize=30&pause=900&color=7F3DFF&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+AI+%2F+ML+%2F+NLP+Enthusiast;Java+%7C+Spring+Boot+%7C+FastAPI+Developer;Passionate+about+Medical+AI+%26+Data+Pipelines;Clean+Architecture+Focused+%7C+Research+Mindset" />
 </h3>
-
-</h3>
-
-
 <br/>
 
 ---
