@@ -1,6 +1,7 @@
 <!-- Banner -->
-<h1 align="center">👋 Hi there, I'm Ines Amirat</h1>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3DFF&height=180&section=header&text=Ines%20Amirat&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" />
+</p>
 <!-- Typing Intro -->
 <h3 align="center">
 <h3 align="center">
