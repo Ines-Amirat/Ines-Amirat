@@ -126,7 +126,8 @@ I enjoy designing systems that are:
 # 📊 Most Used Languages
 
 <div align="center">
-  <img src="https://gh-readme-stats-nu.vercel.app/api/top-langs/?username=Ines-Amirat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats-production-b2b9.up.railway.app/api/top-langs/?username=Ines-Amirat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
 </div>
 
 ---
