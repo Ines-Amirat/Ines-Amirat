@@ -10,7 +10,7 @@
 
 ---
 
-# 👋 About Me  
+# 👨‍💻 About Me  
 
 I’m **Ines Amirat**, a Software Engineer and AI/ML/NLP enthusiast currently completing a  
 **Master’s degree in Software Engineering at the University of Montpellier (France).**
