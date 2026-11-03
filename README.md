@@ -1,139 +1,134 @@
-<!-- Banner -->
-<h1 align="center">👋 Hi there, I'm Ines Amirat</h1>
 
-<!-- Typing Intro -->
-<h3 align="center">
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&fontSize=30&pause=900&color=7F3DFF&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+AI+%2F+ML+%2F+NLP+Enthusiast;Java+%7C+Spring+Boot+%7C+FastAPI+Developer;Passionate+about+Medical+AI+%26+Data+Pipelines;Clean+Architecture+Focused+%7C+Research+Mindset" />
-</h3>
-<br/>
-
----
-
-# 👨‍💻 About Me  
-
-I’m **Ines Amirat**, a Software Engineer and AI/ML/NLP enthusiast currently completing a  
-**Master’s degree in Software Engineering at the University of Montpellier (France).**
-
-I specialize in:
-- **Backend engineering** (Java, Spring Boot, FastAPI, REST architectures, Python APIs)  
-- **Frontend development** (Angular, TypeScript, Tailwind, Bootstrap)  
-- **Applied AI & NLP** (cleaning pipelines, ML models, medical text analysis)  
-
-I enjoy designing systems that are:  
-✔ Clean  
-✔ Modular  
-✔ Scalable  
-✔ Scientifically rigorous  
-
----
-
-# 🔭 What I’m Working On
-
-- Developing end-to-end **NLP and ML pipelines** in Python  
-- Exploring **medical NLP**: NER, classification, text cleaning  
-- Improving backend architecture with **Spring Boot + FastAPI**  
-- Structuring Python projects with clear modular designs  
-- Advancing in **data science workflows**: metrics, PCA, evaluation  
-
----
-
-# 🎯 What I Know (Skills Overview)
-
-### ✔ Programming Languages  
-- **Java**, **Python**, **TypeScript**, **JavaScript**, **SQL**
-
-### ✔ Backend  
-- Spring Boot, FastAPI, REST APIs, services architecture, PostgreSQL
-
-### ✔ Frontend  
-- Angular, TypeScript, Tailwind, Bootstrap
-
-### ✔ AI / NLP  
-- TF-IDF, spaCy, tokenization, DistilBERT, scikit-learn models
-
-### ✔ Data  
-- PostgreSQL, MySQL, dataset processing, evaluation
-
-### ✔ Tools  
-- Git, Docker, Linux, Postman, IntelliJ, VS Code, **Jupyter Notebook**
-
----
-
-# ⚙️ Tech Stack  
-
-## 🚀 **Software Engineering**
 <div align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</div>
 
-## 🎨 **Frontend**
-<div align="center">
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</div>
+# 👋 Hi there, I'm Ines Amirat!
 
-## 🧠 **AI / Machine Learning / NLP**
-<div align="center">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-7F3DFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TF--IDF-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
-<img src="https://img.shields.io/badge/DistilBERT-black?style=for-the-badge&logo=huggingface&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Computer+Science+Graduate;AI+%7C+Machine+Learning+%7C+Deep+Learning;Python+Developer+%7C+Software+Engineer;Exploring+Intelligent+Systems+%26+New+Ideas" alt="Typing animation"/>
 
-## 🔧 Tools & IDEs
-<div align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white"/>
+**Building, learning, experimenting, and exploring AI.**
+
 </div>
 
 ---
 
-# 📊 GitHub Stats  
+## 👩‍💻 About Me
+
+I'm **Ines**, a Computer Science graduate from the
+**University of Montpellier, France**.
+
+I enjoy exploring the intersection of **Artificial Intelligence,
+Machine Learning, Deep Learning, and Software Engineering**.
+
+- 🧠 Interested in intelligent systems and data-driven solutions
+- 🔬 Enjoy experimenting with ML/DL models and algorithms
+- 🐍 Love working with Python and scientific computing tools
+- 💻 Also interested in backend development and clean code
+- 🌱 Always curious about new technologies and research ideas
+
+---
+
+## 🧠 Areas of Interest
+
+- 🤖 Machine Learning & Deep Learning
+- 🧬 Natural Language Processing
+- 👁️ Computer Vision
+- 📊 Data Science & Representation Learning
+- 🔍 Explainable & Trustworthy AI
+- ⚙️ Intelligent Systems
+
+---
+
+## 🛠️ Tech Stack
+
+### 🐍 AI, Machine Learning & Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv"/>
+</p>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### 💻 Software Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,fastapi,angular,typescript,javascript,mysql,postgres"/>
+</p>
+
+### 🔧 Tools & Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,postman"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🩺 ClinicalNotesCleaner
+Medical NLP pipeline for clinical text preprocessing,
+named entity recognition, and document classification.
+
+**Python · spaCy · DistilBERT · Transformers**
+
+### 🧬 BioLab
+Machine learning and exploratory data analysis
+for biological datasets.
+
+**Python · Machine Learning · Data Analysis**
+
+### 📰 SmartNews
+News classification using traditional NLP
+and machine learning techniques.
+
+**Python · TF-IDF · SVM**
+
+### 🔍 Explainable AI Toolkit
+Exploring model interpretability and explainable
+machine learning techniques.
+
+**Python · Explainable AI**
+
+---
+
+## 🔭 Currently Exploring
+
+- Deep learning architectures and representation learning
+- Model evaluation and interpretability
+- AI applications across different domains
+- Better practices for reproducible ML experiments
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ines-Amirat&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ines-amirat&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ines-Amirat&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ines-Amirat&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
-# 📊 Most Used Languages
+## 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://github-readme-stats-peach.vercel.app/api/top-langs/?username=Ines-Amirat&layout=compact&theme=tokyonight&hide_border=true">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inesamirat)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ines-Amirat)
+
 </div>
-
-
 
 ---
 
-# 🌐 Connect With Me
-
 <div align="center">
-  <a href="mailto:ines.amirate20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/inesamirat">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+
+✨ *Curiosity drives learning. Learning drives innovation.*
+
 </div>
-
-<br/>
-
-<p align="center"><i>“Quiet work, loud results.” ✨</i></p>
