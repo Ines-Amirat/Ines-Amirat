@@ -75,18 +75,6 @@ Machine Learning, Deep Learning, and Software Engineering**.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ines-Amirat&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ines-Amirat&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
