@@ -66,34 +66,6 @@ Machine Learning, Deep Learning, and Software Engineering**.
 
 ---
 
-## 🚀 Featured Projects
-
-### 🩺 ClinicalNotesCleaner
-Medical NLP pipeline for clinical text preprocessing,
-named entity recognition, and document classification.
-
-**Python · spaCy · DistilBERT · Transformers**
-
-### 🧬 BioLab
-Machine learning and exploratory data analysis
-for biological datasets.
-
-**Python · Machine Learning · Data Analysis**
-
-### 📰 SmartNews
-News classification using traditional NLP
-and machine learning techniques.
-
-**Python · TF-IDF · SVM**
-
-### 🔍 Explainable AI Toolkit
-Exploring model interpretability and explainable
-machine learning techniques.
-
-**Python · Explainable AI**
-
----
-
 ## 🔭 Currently Exploring
 
 - Deep learning architectures and representation learning
